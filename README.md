@@ -108,7 +108,7 @@ Link Sections:
 
 1. 📥 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://github.com/mdnm18/amazon-clone.git
 ```
 
 2. 📁 Verify image structure:
